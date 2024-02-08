@@ -8,5 +8,5 @@ Theme :  Light and Dark
 
 > Preview
 > Light Mode
-![PREVIEW](https://github.com/waytologic/Responsive-admin-dashboard/dark.png?raw=true "This is Light mode..")
+![PREVIEW](https://raw.githubusercontent.com/waytologic/Responsive-admin-dashboard/main/Light-view.png?raw=true "This is Light mode..")
 > 

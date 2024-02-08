@@ -6,3 +6,7 @@
 Theme :  Light and Dark 
 ```
 
+> Preview
+> Light Mode
+![PREVIEW](https://github.com/waytologic/Responsive-admin-dashboard/dark.png?raw=true "This is Light mode..")
+> 
